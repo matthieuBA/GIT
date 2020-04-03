@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Fri Apr 03 2020 16:36:14 GMT+0200 (heure d’été d’Europe centrale)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-3-3-2020-16-35-59.txt
+
+
+Deleted files:
+
+
+Renamed files:
