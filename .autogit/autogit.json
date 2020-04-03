@@ -1,5 +1,6 @@
 {
   "updateInterval": 10,
   "logging": true,
-  "silent": false
+  "silent": false,
+  "tags": "auto"
 }
